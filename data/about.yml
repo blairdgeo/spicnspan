@@ -1,0 +1,26 @@
+enable  : true
+title1   : WA State Department of Ecology Toxics Cleanup Program
+title2   : Aspect Consulting, LLC
+description1: >
+  Name of Ecology PM Site Manager<br>
+  3190 160th Ave S.E. Bellevue, WA 98008 <br>
+  Phone: (425) 649-7134 <br>
+  Email:
+description2: >
+  <B>Jeremy Porter Remediation Engineer</B><br>
+  710 2nd Ave, Suite 550 Seattle, WA 98104<br>
+  Phone: (206) 838-5835<br>
+  E-mail: jporter@aspectconsulting.co
+image   : images/bgimage.jpg
+aboutItem:
+  - title : Why Choose Us
+    description: > 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+
+  - title : What You Get
+    description: > 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+
+  - title : Meet The Energy
+    description: > 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

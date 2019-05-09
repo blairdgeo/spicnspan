@@ -1,0 +1,68 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Spic'n Span Cleaners"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "/about"
+        weight  = 2
+
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Airspace Hugo theme"
+    author = "Themefisher"
+    # Google Analitycs
+    googleAnalitycsID = "Your ID"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/bgimage3.jpg"
+        heading = "Spic'n Span Cleaners"
+        description = "Environmental Cleanup Project"
+        btn     = true
+        btnText = "Download More"
+        btnURL  = "https://themefisher.com/"
+
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "PROJECT DESCRIPTION"
+        content = "The purpose of the project is to remove subsurface contamination related to releases from a former dry cleaner. Electrical resistance heating technology will be used to remediate the subsurface contamination. Cleanup will also facilitate future redevelopment of the Spic’N Span property."
+        image   = "images/about/onlineImage.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "CONTACT THE PROJECT TEAM"
+        content = "If you have questions, please contact the project team."
+        btnText = "Contact the project team"
+        btnURL  = "/contact"
+
+    # Background and History Section On Homepage
+    [params.backgroundHistory]
+        enable  = true
+        title   = "BACKGROUND AND PROPERTY HISTORY"
+        content= "Years of dry cleaner operation on the property have resulted in releases of contaminants including PCE (“perc”) and mineral spirits into the soil and groundwater beneath the building. The contaminants have migrated beneath the neighboring property to the north, which is currently a parking lot owned by KeyBank and, also to the south east into the Maynard Avenue South right-of-way."
+
+    
+    # Timeline On Homepage
+    [params.timeline]
+        enable  = true
+        title   = "PROJECT TIMELINE"
+        content= ""
+        image = "images/timeline.jpg"
+
+    
