@@ -1,4 +1,0 @@
-﻿---
-title:  
-draft: false
----
